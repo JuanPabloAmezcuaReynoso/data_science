@@ -1,1 +1,1 @@
-# Repositorio con todos los proyectos realizados en el bootcamp de Practicum by Yandex
+# Repositorio con todos los proyectos realizados en el bootcamp de ciencia de datos.
